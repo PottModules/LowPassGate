@@ -1,5 +1,17 @@
-Resistor 2x 1K
-Capacitor 2x 3.3nF , 2x 100nF
-Vactrol 2x
-Switch 2x (TSM102A2 SPDT PCB ON-ON)
-Thonkicon Jack 3x
+Part  Value  
+R1    1K
+R2    1K
+C1    100nF
+C2    3.3nF
+C3    100nF
+C4    3.3nF
+VTL1  Vactrol
+VTL2  Vactrol
+E$3   Switch (TSM102A2 SPDT PCB ON-ON)
+E$1   Switch (TSM102A2 SPDT PCB ON-ON)
+IN    THONKICONN
+OUT   THONKICONN
+IN1   THONKICONN
+OUT2  THONKICONN
+E$2   THONKICONN
+E$4   THONKICONN
