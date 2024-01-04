@@ -4,4 +4,5 @@ Passive LowPassGate
 <br>
 Building instructions <br>
 Gerber files  <br>
+KiCad files
 
